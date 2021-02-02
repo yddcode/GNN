@@ -18,3 +18,10 @@ paper (https://persagen.com/files/misc/scarselli2009graph.pdf)
 deep GCN frameworks
 code(https://github.com/lightaime/deep_gcns)
 
+Semi-Supervised Classification with Graph Convolutional Networks
+https://github.com/tkipf/gcn
+
+Diffusion-Convolutional Neural Networks
+
+Tree-LSTM
+
