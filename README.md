@@ -1,4 +1,6 @@
 # GNN
+CSDN：https://blog.csdn.net/qq_35200351/article/details/113558929
+
 2009 first introduction “The GNN Model”
 paper (https://persagen.com/files/misc/scarselli2009graph.pdf)
 
